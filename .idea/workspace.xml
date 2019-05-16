@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51ed6e7-6dfd-4f4c-a464-1ba80a53d267" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/tmphtml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tmphtml.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/search/search3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/search/search3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/search/search4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/search/search4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/search/search5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/search/search5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/search/search6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/search/search6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/search/search7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/search/search7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/javascript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/javascript/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +27,12 @@
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -54,11 +65,20 @@
       <updated>1557691227808</updated>
       <workItem from="1557691234882" duration="715000" />
       <workItem from="1557924154498" duration="48000" />
+      <workItem from="1558032143394" duration="854000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: Actualizacion del directorio">
+      <created>1558032387696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558032387696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="763000" />
+    <option name="totallyTimeSpent" value="1617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -77,7 +97,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.58132046" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -90,5 +110,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: Actualizacion del directorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: Actualizacion del directorio" />
   </component>
 </project>
